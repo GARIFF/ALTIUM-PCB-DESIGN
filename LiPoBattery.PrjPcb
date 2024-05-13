@@ -47,6 +47,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=V01
 
 [Preferences]
 PrefsVaultGUID=
@@ -170,6 +171,15 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVMXSYER
+
+[ProjectVariant1]
+UniqueId=10a4247f-df42-4e67-be04-0a90cd3e4ba4
+Description=V01
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=LED1|UniqueId=\BKZZXFDS|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LiPoBattery\LiPoBattery.xlsx
